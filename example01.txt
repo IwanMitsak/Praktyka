@@ -1,0 +1,8 @@
+Hello!
+I am a text file. And I had been written with a Python
+script
+before you opened me, so look up the docs and try to delete
+me using Python, too.
+ This text was added in example 2!
+Updated
+ 2020-07-13 21:40:07.644202
