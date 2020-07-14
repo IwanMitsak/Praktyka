@@ -1,0 +1,3 @@
+file2 linia1
+file2 linia2
+file2 linia3
