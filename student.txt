@@ -1,7 +1,0 @@
-Student8 - 2.9Student7 - 3.2
-Student6 - 3.6
-Student5 - 4
-Student4 - 4.2
-Student3 - 4.6
-Student2 - 4.8
-Student1 - 5
